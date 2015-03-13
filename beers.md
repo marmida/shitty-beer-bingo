@@ -3,3 +3,9 @@
 * Rolling Rock
 * Schlitz
 * Olympia
+* Yuengling
+* Old Speckled Hen
+* Keystone
+* Old Milwaukee
+* Shiner Bock
+* Rainier
